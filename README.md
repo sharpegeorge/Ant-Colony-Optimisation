@@ -17,12 +17,18 @@ The goal is to distribute 500 items into a fixed number of bins (10 or 50) such 
 - Paper-style report summarizing findings
 
 ### How to run
-1. Clone the repository:
+1. Clone the repository
+   ```bash
    git clone https://github.com/sharpegeorge/Ant-Colony-Optimisation.git
    cd Ant-Colony-Optimisation
+   ```
 
-2. Install dependencies:
+3. Install dependencies
+   ```bash
    pip install -r requirements.txt
+   ```
 
-3. Run the project:
+5. Run the project
+   ```bash
    python ACO BPP.py
+   ```
