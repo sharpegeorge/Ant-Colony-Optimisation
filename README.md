@@ -32,3 +32,6 @@ The goal is to distribute 500 items into a fixed number of bins (10 or 50) such 
    ```bash
    python ACO BPP.py
    ```
+### Files Included
+- `ACO BPP.py`
+- `requirements.txt`
